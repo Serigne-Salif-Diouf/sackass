@@ -1,0 +1,7 @@
+{
+  "name": "sackass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
